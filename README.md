@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-[![Visits Badge](https://badges.pufler.dev/visits/rsturn29/rsturn29)]
+[![Visits Badge](https://badges.pufler.dev/visits/rsturn29/rsturn29)](https:rsturn29.dev)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rebecca-needham-558b93227/)
