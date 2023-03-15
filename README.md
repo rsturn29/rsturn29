@@ -4,7 +4,7 @@
 ### Hi there 👋
 
 
-<h2> Here are some technologies that I have used and am learning to use</h2>
+ Here are some technologies that I have used and am learning to use
 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
           
