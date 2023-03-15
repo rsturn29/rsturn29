@@ -5,8 +5,9 @@
 
 
 <h2> Here are some technologies that I have used and am learning to use</h2>
-<p>  
-  </p>
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+          
 
 
 Visit my LinkedIn profile
