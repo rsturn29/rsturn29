@@ -31,5 +31,5 @@
 
 
 
-![Snake animation](https://github.com/rsturn29/rsturn29/blob/output/github-contribution-grid-snake.svg)
+
 
