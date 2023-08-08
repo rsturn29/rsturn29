@@ -22,10 +22,3 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="45" height="45"  />          
  </p>         
 </br>
-
-
-
-
-
-
-
